@@ -1,0 +1,11 @@
+python-code
+rust_code
+__pycache__
+*.txt
+*.py
+*.sql
+*.py
+*.rs
+.venv
+.vscode
+data
